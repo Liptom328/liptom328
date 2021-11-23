@@ -1,7 +1,5 @@
 ### Hi there 👋
 
---- 
-
 - ✏ I’m currently working on: **Unsplashify,**
 - 🎓 I’m currently learning: *Nothing*
 
