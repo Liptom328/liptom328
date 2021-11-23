@@ -2,8 +2,8 @@
 
 ---
 
-- ✏ I’m currently working on nothing
-- 🎓 I’m currently learning C#
+- ✏ I’m currently working on: **Unsplasher,**
+- 🎓 I’m currently learning: **Nothing**
 
 ---
 
