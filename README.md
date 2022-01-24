@@ -3,10 +3,10 @@
 class Lipton {
  public static void main(String[ ] args) {
   if (lazy) {
-   playGames();
+   play(games);
   } else {
    learn(java);
-  }
+  }  
 }
 
 ```
