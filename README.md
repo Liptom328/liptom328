@@ -1,8 +1,12 @@
-### Hi there 👋
+```Java
 
-- ✏ I’m currently working on: **Zelta,**
-- 🎓 I’m currently learning: **Nothing**
+class Lipton {
+ public static void main(String[ ] args) {
+  if (lazy) {
+   playGames();
+  } else {
+   learn(java);
+  }
+}
 
-![](https://komarev.com/ghpvc/?username=Liptom328&color=ff69b4)
-
-![](https://github-readme-stats.vercel.app/api?username=Liptom328&theme=dracula)
+```
