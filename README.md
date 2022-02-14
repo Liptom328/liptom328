@@ -1,12 +1,1 @@
-```Java
-
-class Lipton {
- public static void main(String[ ] args) {
-  if (lazy) {
-   play(games);
-  } else {
-   learn(java);
-  }  
-}
-
-```
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Liptom328&theme=dracula)
