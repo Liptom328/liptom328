@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lipton</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=liptom328&label=Profile%20views&color=0e75b6&style=flat" alt="liptom328" /> </p>
-
-![Discord](https://img.shields.io/badge/discord-Lipton%238094-%237289DA?logo=discord&logoColor=white)
+<P align="center"> <img src="https://img.shields.io/badge/discord-Lipton%238094-%237289DA?logo=discord&logoColor=white" alt="discord" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
