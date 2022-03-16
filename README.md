@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lipton</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=liptom328&label=Profile%20views&color=0e75b6&style=flat" alt="liptom328" /> </p>
-<P align="center"> <img src="https://img.shields.io/badge/discord-Lipton%236697-%237289DA?logo=discord&logoColor=white" alt="discord" /> </p>
+<P align="center"> <img src="https://img.shields.io/badge/discord-liptą%237048-%237289DA?logo=discord&logoColor=white" alt="discord" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/Lipton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lipton" height="30" width="40" /></a>
-<a href="https://discord.gg/krecior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lipton#8094" height="30" width="40" /></a>
+<a href="https://discord.gg/krecior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="liptą#7048" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
